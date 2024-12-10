@@ -34,7 +34,9 @@ Check out the live version of the app here: [Visit the Deployed App](https://wea
    cd Weather-App
 2. Install dependencies: npm install
 3. Obtain your API key:
-                        Sign up at OpenWeather.
-                        Get your API key from the dashboard.
-4.Start the development server 
+   -Sign up at OpenWeather.
+   -Get your API key from the dashboard.
+4.Start the development server    
+   
+
 

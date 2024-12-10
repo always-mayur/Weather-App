@@ -36,7 +36,9 @@ Check out the live version of the app here: [Visit the Deployed App](https://wea
 3. Obtain your API key:
    -Sign up at OpenWeather.
    -Get your API key from the dashboard.
-4.Start the development server    
+4.Start the development server
+   
+    
    
 
 
